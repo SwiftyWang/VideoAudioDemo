@@ -7,3 +7,5 @@ Video Audio practice demo
 ### 闪白 - ShineWhiteFilter
 ### 灵魂出窍 - SoulOutFilter
 ### 幻觉 - VertigoFilter
+
+https://www.jianshu.com/p/5bb7f2a0da90
